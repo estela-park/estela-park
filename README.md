@@ -1,4 +1,4 @@
-👋 👀 🌱 💞️ 📫
+👋 👀 🌱 💞️ 📫 /n
 This git hub pages contains the notes for classes I took, seminars I went, papers I read and presentations of projects I participated in.
 
 👋 👀 🌱 💞️ 📫
