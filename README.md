@@ -16,15 +16,16 @@ A list of technologies or stacks
  - SLAM
 
 👋 👀 🌱 💞️ 📫
-<!---comment---!>
-<!--- H1 is the biggest, H6 the smalllest ---!>
+
 # I am stella
 ###### STELLA
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
-- ![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`
+-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`
 
 <!---
 estela-park/estela-park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---comment---!>
+<!--- H1 is the biggest, H6 the smalllest ---!>
