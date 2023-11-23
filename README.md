@@ -11,7 +11,7 @@ Info should contains date, circumstance and names(if any) of colleagues.
 
 A list of technologies or stacks
 
-// H1 is the biggest, H6 the smalllest
+< H1 is the biggest, H6 the smalllest >
 ## I am stella
 ###### STELLA
 
