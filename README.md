@@ -1,9 +1,9 @@
-👋 👀 🌱 💞️ 📫<br />
+👋 👀 🌱 💞️ 📫   
 This git hub pages contains the notes for classes I took, seminars I went, papers I read and presentations of projects I participated in.
-<br />
-👋 👀 🌱 💞️ 📫<br />
+<br>
+👋 👀 🌱 💞️ 📫   
 Info should contains date, circumstance and names(if any) of colleagues.
-<br />
+<br>
 👋 👀 🌱 💞️ 📫<br />
 A list of technologies or stacks
  - Deep Learning
