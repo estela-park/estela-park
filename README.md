@@ -19,8 +19,10 @@ A list of technologies or stacks
 
 # I am stella
 ###### STELLA
+H1 is the biggest, H6 the smalllest
+anything following [<!--- ---!>] doesn't seem to work as syntax but plain text
 
--![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 ![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`
 
 <!---
