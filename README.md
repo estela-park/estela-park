@@ -16,7 +16,7 @@ A list of technologies or stacks
  - SLAM
 
 👋 👀 🌱 💞️ 📫
-<!---comment--->
+<!---comment---!>
 <!--- H1 is the biggest, H6 the smalllest ---!>
 # I am stella
 ###### STELLA
