@@ -1,6 +1,6 @@
 👋 👀 🌱 💞️ 📫  
 # Stella Park
-###### Hi, I am stella. I am a Deep Learning Engineer specializing Computer Vision.
+#### Hi, I am stella. I am a Deep Learning Engineer specializing Computer Vision.
 
 
 👋 👀 🌱 💞️ 📫   
