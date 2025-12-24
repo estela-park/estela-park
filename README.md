@@ -1,7 +1,7 @@
 👋 👀 🌱 💞️ 📫  
+# Stella Park
+###### Hi, I am stella. I am a Deep Learning Engineer specializing Computer Vision.
 
-# I am stella
-###### STELLA
 
 👋 👀 🌱 💞️ 📫   
 This git hub pages contains the notes for classes I took, seminars I went, papers I read and presentations of projects I participated in.
