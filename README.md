@@ -4,13 +4,13 @@
 
 
 👋 👀 🌱 💞️ 📫   
-This git hub pages contains the notes for classes I took, seminars I went, papers I read and presentations of projects I participated in.
+This git hub pages contains the notes for projects I participated in, classes I took, seminars I went.
    
 👋 👀 🌱 💞️ 📫   
-Info should contains date, circumstance and names(if any) of colleagues.
+Info should contains date, circumstance, names(if any) of colleagues, and stacks necessary.
   
 👋 👀 🌱 💞️ 📫  
-A list of technologies or stacks
+A list of technologies I can perform.
  - Deep Learning
  - Active Learning: combined protocol of labelling and DL
  - HPE
